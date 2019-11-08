@@ -1,0 +1,135 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    
+}
+div.menu{
+  width: 1900px;
+  height: 60px;  
+  background-color: tomato;
+  margin: 0px;
+  position: fixed;
+  top: 0px;
+
+}
+h1{
+    position: relative;
+    top: 70px;
+    left: 100px;
+}
+hr{
+    margin: 90px;
+    margin-left: 100px;
+    margin-bottom: 10px;
+}
+p.el1{
+    position: relative;
+    left: 100px;
+}
+p{
+    position: relative;
+    left: 70px;
+}
+p.el{
+    margin: 30px;
+}
+p.menu1{
+    position: relative;
+    left: 100px;
+    top: 0px;
+}
+p.menu2{
+    position: relative;
+    padding: 5px;
+    padding-right: 0px;
+    left: 210px;
+    top: -39px;
+}
+p.menu2:hover{
+    background-color: firebrick;
+}
+p.menu3{
+    position: relative;
+    left: 330px;
+    top: -77px;
+}
+p.menu3:hover{
+    background-color: firebrick; 
+}
+p.menu4{
+    position: relative;
+    left: 430px;
+    top: -110px;
+}
+p.menu4:hover{
+    background-color: firebrick;
+}
+p.menu5{
+    position: relative;
+    left: 560px;
+    top: -143px;
+}
+p.menu5:hover{
+    background-color: firebrick;
+}
+div.info{
+    position: relative;
+    width: 800px;
+}
+div.box{
+    position: absolute;
+    width: 450px;
+    height: 700px;
+    left: 900px;
+    top: 150px;
+    border: none;
+    background-color: gray;
+}
+img{
+    position: relative;
+    left: 70px;
+}
+span{
+    font-weight: bold ;
+}
+.poet{
+    position: relative;
+    left: -30px;
+    top: 3px;
+}
+.p1{
+    position: relative;
+    left: 100px;
+}
+.poets{
+    position: relative;
+    width: 1250px;
+    height: 250px;
+    left: 100px;
+    border: 1px solid black;
+}
+.poet1{
+    position: relative;
+    left: 150px;
+    top: -250px;
+}
+.poet2{
+    position: relative;
+    left: 330px;
+    top: -505px;
+}
+.poet3{
+    position: relative;
+    left: 500px;
+    top: -759px;
+}
+.poet4{
+    position: relative;
+    left: 670px;
+    top: -1013px;
+}
+.poet5{
+    position: relative;
+    left: 840px;
+    top: -1267px;
+}

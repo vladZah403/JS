@@ -1,0 +1,68 @@
+td{  
+   
+    height: 50px;
+    border: none;
+}
+table{
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+    border-radius: 10px;
+}
+.start{
+    width: 50px;
+    height: 20px;
+    border: 1px solid black;
+    position: absolute;
+    margin: 10px;
+    top: 460px;
+    padding: 5px;
+}
+div.start1{
+    width: 50px;
+    height: 20px;
+    border: 1px solid black;
+    position: absolute;
+    margin: 10px;
+    top: 460px;
+    padding: 5px;
+    background-color: rgb(231, 231, 235);
+}
+tr:nth-child(2){
+    background-color: rgb(174, 178, 182);
+}
+tr:nth-child(4){
+    background-color: rgb(174, 178, 182);
+}
+tr:nth-child(6){
+    background-color: rgb(174, 178, 182);
+}
+tr:nth-child(8){
+    background-color: rgb(174, 178, 182);
+}
+td.el{
+    background-color: rgb(231, 231, 235);
+}
+.el1{
+    background-color: rgb(136, 162, 240);
+}
+.el2{
+    background-color: rgb(103, 135, 231);
+}
+.el3{
+    background-color: rgb(53, 91, 207);
+}
+.el4{
+    background-color: rgb(20, 60, 182);
+}
+.el5{
+    background-color: rgb(6, 23, 77);
+}
+.el6{
+    color: white;
+}
+.l{
+    margin: 0px;
+    font-size: 30px;
+}
+

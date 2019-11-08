@@ -1,0 +1,74 @@
+div{
+width: 100px;
+height: 100px;
+background-color: cyan; 
+position: relative;
+transform: rotate(40deg);
+}
+
+.box1{
+    left: 320px;
+    top: 200px;
+    animation: box1 1s infinite alternate;
+}
+
+.box2{
+    left: 257px;
+    top: 175px;
+    animation: box2 1s infinite alternate;
+}
+.box3{
+    left: 397px;
+    top: 64px;
+    animation: box3 1s infinite alternate;
+}
+.box4{
+    left: 334px;
+    top: 39px;
+    animation: box4 1s infinite alternate;
+}
+
+@keyframes box1{
+    0%{
+        left: 320px;
+        top: 200px;
+        transform: rotate(0deg);
+    }  
+    100%{
+        top: -5px;
+        transform: rotate(360deg);
+    }
+}
+@keyframes box2{
+    0%{
+        left: 257px;
+        top: 175px;
+        transform: rotate(0deg);
+    }  
+    100%{
+        left: -5px;
+        transform: rotate(360deg);
+    }
+}
+@keyframes box3{
+    0%{
+        left: 397px;
+        top: 64px;
+        transform: rotate(0deg);
+    }  
+    100%{
+        left: 630px;
+        transform: rotate(360deg);
+    }
+}
+@keyframes box4{
+    0%{
+        left: 334px;
+        top: 39px;
+        transform: rotate(0deg);
+      }  
+    100%{
+        top: 220px;
+        transform: rotate(360deg);
+        }   
+}

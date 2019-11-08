@@ -1,0 +1,19 @@
+
+svg{
+    fill:rgb(0, 255, 64);
+    stroke:black;
+    stroke-width:5;
+    opacity:0.5
+}
+.el1{
+    position: relative;
+    top: -300px;
+    left: 75px;
+
+}
+.el2{
+    fill:rgb(255, 0, 0);
+    stroke:rgb(5, 1, 255);
+    stroke-width:5;
+    fill-rule:evenodd;
+}

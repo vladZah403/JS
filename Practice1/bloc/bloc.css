@@ -1,0 +1,156 @@
+.bloc{
+    width: 150px;
+    height: 250px;
+    border: 1px solid black;
+    text-align: center;
+    background-color: white;
+    position: fixed;
+    border-radius: 6px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    -webkit-transition: width 1s,  heigh 1s, -webkit-transform 1s;
+    transition: width 1s,  heigh 1s, transform 1s;
+
+}
+.buy{
+    width: 50px;
+    border: 1px  solid black;
+    position: fixed;
+    left: 60px;
+    border-radius: 4px;
+    background-color: rgb(218, 70, 70);
+
+}
+.el{
+    font-size: 30px;
+    margin: 5px;
+}
+span{
+    color: rgb(122, 121, 121);
+}
+hr{
+    border-color:rgb(218, 70, 70); 
+}
+.el2{
+    margin: 4px;
+}
+
+.bloc:hover{
+    width: 170px;
+    height: 270px;
+    border: 1px solid black;
+    background-color: white;
+    text-align: center;
+    border-radius: 6px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    -webkit-transition: width 1s, heigh 1s, -webkit-transform 1s;
+    transition: width 1s, heigh 1s, transform 1s;
+}
+.bloc2{
+    width: 150px;
+    height: 250px;
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 6px;
+    position: fixed;
+    left: 180px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    -webkit-transition: width 1s,  heigh 1s, -webkit-transform 1s;
+    transition: width 1s,  heigh 1s, transform 1s;
+}
+.buy2{
+    width: 50px;
+    border: 1px  solid black;
+    position: relative;
+    left: 50px;
+    top: 20px;
+    border-radius: 4px;
+    background-color: rgb(214, 187, 64);
+}
+hr.l1{
+    border-color: rgb(214, 187, 64);
+}
+.bloc2:hover{
+    width: 170px;
+    height: 270px;
+    right: 40px;
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 6px;
+    position: fixed;
+    left: 180px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    -webkit-transition: width 1s,  heigh 1s,  -webkit-transform 1s;
+    transition: width 1s,  heigh 1s,   transform 1s;
+}
+.bloc3{
+    width: 150px;
+    height: 250px;
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 6px;
+    position: fixed;
+    left: 350px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    -webkit-transition: width 1s,  heigh 1s,  -webkit-transform 1s;
+    transition: width 1s,  heigh 1s,   transform 1s;
+}
+.buy3{
+    width: 50px;
+    border: 1px  solid black;
+    position: relative;
+    left: 50px;
+    top: 20px;
+    border-radius: 4px;
+    background-color: rgb(57, 143, 214);
+}
+hr.l2{
+    border-color: rgb(57, 143, 214);
+}
+.bloc3:hover{
+    width: 170px;
+    height: 270px;
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 6px;
+    position: fixed;
+    left: 350px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    -webkit-transition: width 1s,  heigh 1s,  -webkit-transform 1s;
+    transition: width 1s,  heigh 1s,   transform 1s;
+}
+.bloc4{
+    width: 150px;
+    height: 250px;
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 6px;
+    position: fixed;
+    left: 520px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    -webkit-transition: width 1s,  heigh 1s,  -webkit-transform 1s;
+    transition: width 1s,  heigh 1s,   transform 1s;
+}
+.buy4{
+    width: 50px;
+    border: 1px  solid black;
+    position: relative;
+    left: 50px;
+    top: 20px;
+    border-radius: 4px;
+    background-color: rgb(57, 214, 65);
+}
+hr.l3{
+    border-color: rgb(57, 214, 65);
+}
+.bloc4:hover{
+    width: 170px;
+    height: 270px;
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 6px;
+    position: fixed;
+    left: 520px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    -webkit-transition: width 1s,  heigh 1s,  -webkit-transform 1s;
+    transition: width 1s,  heigh 1s,   transform 1s;
+}

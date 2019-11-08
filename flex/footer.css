@@ -1,0 +1,13 @@
+footer{
+    min-height: 240px;
+    background-color: rgba(37, 33, 33, 0.616);
+}
+p{
+    text-align: center;
+    font-size:30px ;
+}
+.icon{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
